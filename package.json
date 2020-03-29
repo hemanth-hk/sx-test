@@ -1,0 +1,28 @@
+{
+    "name": "@testify/tt",
+    "version": "0.0.1",
+    "description": "A public test npm module",
+    "main": "tt.js",
+    "preferGlobal": true,
+    "bin": {
+        "sx": "tt.js"
+    },
+    "scripts": {
+        "test": "echo \"No tests written\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hemanth-hk/sx-test.git"
+    },
+    "keywords": [
+        "test",
+        "cli",
+        "public"
+    ],
+    "author": "hemanth-hk",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hemanth-hk/sx-test/issues"
+    },
+    "homepage": "https://github.com/hemanth-hk/sx-test#readme"
+}
