@@ -1,11 +1,11 @@
 {
-    "name": "@testify/tt",
+    "name": "tt-hemanth",
     "version": "0.0.1",
     "description": "A public test npm module",
     "main": "tt.js",
     "preferGlobal": true,
     "bin": {
-        "sx": "tt.js"
+        "tt": "tt.js"
     },
     "scripts": {
         "test": "echo \"No tests written\""
