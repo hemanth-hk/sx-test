@@ -7,6 +7,9 @@
     "bin": {
         "tt": "tt.js"
     },
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org/"
+    },
     "scripts": {
         "test": "echo \"No tests written\""
     },
